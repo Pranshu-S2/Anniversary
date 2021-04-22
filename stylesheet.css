@@ -25,90 +25,90 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #fcc1b9;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #ffbeb5;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #ffc9b9;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #ffdad5;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #ffbeb9;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #fcc1b9;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #ffbeb5;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #ffc9b9;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #ffdad5;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #ffbeb9;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #fcc1b9;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #ffbeb5;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #ffc9b9;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #ffdad5;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #ffbeb9;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #fcc1b9;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #ffbeb5;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #ffc9b9;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #ffdad5;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #ffbeb9;
 	}
 }
 
 @keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #fcc1b9;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #ffbeb5;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #ffc9b9;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #ffdad5;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #ffbeb9;
 	}
 }
 
