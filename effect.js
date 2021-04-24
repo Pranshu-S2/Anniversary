@@ -173,9 +173,9 @@ $('document').ready(function(){
 		loopSix();
 		loopSeven();
 		
-		// $(this).fadeOut('slow').delay(5000).promise().done(function(){
-		// 	$('#cake_fadein').fadeIn('slow');
-		// });
+		$(this).fadeOut('slow').delay(5000).promise().done(function(){
+			$('#cake_fadein').fadeIn('slow');
+		});
 
 		$('.cake').fadeIn('slow');
 
@@ -235,9 +235,9 @@ $('document').ready(function(){
 			i=i+1;
 			$("p:nth-child("+i+")").fadeIn('slow').delay(1500);
 			if(i==50){
-				// $("p:nth-child(49)").fadeOut('slow').promise().done(function () {
-				// 	$('.cake').fadeIn('fast');
-				// });
+				$("p:nth-child(49)").fadeOut('slow').promise().done(function () {
+					$('.cake').fadeIn('fast');
+				});
 				
 			}
 			else{
